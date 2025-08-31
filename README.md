@@ -1,47 +1,52 @@
-# Taskify - A minimalist todo list application
+# Taskify
+
+A minimalist and responsive task management app built for daily planning
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
+- [Getting Started](#getting-started)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Installing Dependencies](#installing-dependencies)
+  - [Running the Development Server](#running-the-development-server)
 - [Author](#author)
-
-## Overview
-
-### Screenshot
-
-![](./screenshots/screenshot.png)
-
-### Links
-
-- Github URL: [https://github.com/krutagna31/taskify](https://github.com/krutagna31/taskify)
-- Live Site URL: [https://taskify-31.vercel.app](https://taskify-31.vercel.app)
+- [Acknowledgments](#acknowledgments)
 
 ## My process
 
 ### Built with
 
-- Next.js
-- Typescript
-- Tailwind CSS
-- Shadcn/UI
-- React Hook Form
-- Zod
+- [Next.js](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Shadcn/UI](https://ui.shadcn.com/)
+- [React Hook Form](https://react-hook-form.com)
+- [Zod](https://zod.dev)
 
-### Continued development
+## Getting Started
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Follow these steps to get a copy of the project up and running on your local machine.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+### Cloning the repository
 
-### Useful resources
+```sh
+git clone https://github.com/krutagna31/taskify.git
+```
+
+### Installing dependencies
+
+```sh
+cd taskify
+npm install
+```
+
+### Running the development server
+
+```sh
+npm run dev
+```
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Krutagna Patel](https://flowcv.me/krutagna-patel)
